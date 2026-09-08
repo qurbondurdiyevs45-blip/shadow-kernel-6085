@@ -1,0 +1,15 @@
+{
+  "name": "shadow-kernel-6085",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 8114,
+    "createdAt": "2026-09-08T10:57:19.794Z"
+  }
+}
